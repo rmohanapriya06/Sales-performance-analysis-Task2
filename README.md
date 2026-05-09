@@ -21,7 +21,7 @@ Google Colab / Jupyter Notebook – interactive environment
 DELIVERABLES:
 
 Colab notebook with code and charts
-One-page executive summary with insights and recommendations
+One-page executive summary with insights and recommendations.
 
 
 
